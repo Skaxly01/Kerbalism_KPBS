@@ -9,7 +9,6 @@ Patch files to better use Kerbalism and the realism profile.
   Large Inline Water Tank - Water tank for 15 days for a crew of 3.
   
   Small Supply Container Plus - Food and filter material for 10 days for a crew of 3.
-  
   Filtration Tank - 16 days filtration material per kerbal.
   
 
