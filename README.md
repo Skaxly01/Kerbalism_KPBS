@@ -14,10 +14,10 @@ Patch files to better use Kerbalism and the realism profile.
     
 These parts were derived from the TAC Life support mod. All credit belongs to them. Models, texture files, and modified configs maintain TACLS identification.
 
-Small LS container - Supports 2 kerbals for 15 days. Mass conserve by using half water and half filtration material.
-Standard LS container - Supports 3 kerbals for 30 days. Mass conserve by using half water and half filtration material.
-Large LS container - Supports 3 kerbals for 60 days. Mass conserve by using half water and half filtration material.
-Large LS container Plus- Supports 3 kerbals for 90 days. Mass conserve by using half water and half filtration material. Adds entertainment with a packed movie and video game library.
+        Small LS container - Supports 2 kerbals for 15 days. Mass conserve by using half water and half filtration material.
+        Standard LS container - Supports 3 kerbals for 30 days. Mass conserve by using half water and half filtration material.
+        Large LS container - Supports 3 kerbals for 60 days. Mass conserve by using half water and half filtration material.
+        Large LS container Plus- Supports 3 kerbals for 90 days. Mass conserve by using half water and half filtration material. Adds entertainment with a packed movie and video game library.
   
 
 3 - Patch file for Universal Storage (Not Yet).
