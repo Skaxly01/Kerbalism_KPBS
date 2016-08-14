@@ -12,7 +12,7 @@ Patch files to better use Kerbalism and the realism profile.
   
     Small Filtration Tank - 16 days filtration material per kerbal. Non-Tweakable.
     
-These parts were derived from the TAC Life support mod. All credit belongs to them. Models, texture files, and modified configs maintain TACLS identification.
+These parts were derived from the TAC Life Support mod. All credit belongs to them. Models, texture files, and modified configs maintain TACLS identification.
 
         Small LS container - Supports 2 kerbals for 15 days. Mass conserve by using half water and half filtration material.
         Standard LS container - Supports 3 kerbals for 30 days. Mass conserve by using half water and half filtration material.
