@@ -2,7 +2,7 @@
 Patch files to better use Kerbalism and the realism profile.
 
 
-1 - Patch file for KPBS [WIP].
+1 - Patch file for KPBS. So close to calling it 1.0 I can smell it. Assume it's good enough for a career game?
 
 2 - Realism Extra Parts - Just download the zip.
 
