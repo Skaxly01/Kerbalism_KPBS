@@ -4,7 +4,7 @@ Patch files to better use Kerbalism and the realism profile.
 
 1 - Patch file for KPBS [WIP].
 
-2 - Realism Extra Parts - Soon to be a semi-proper project. For now just download the zip.
+2 - Realism Extra Parts - Just download the zip.
 
     Large Inline Water Tank - Water tank for 21 days for a crew of 3.
   
