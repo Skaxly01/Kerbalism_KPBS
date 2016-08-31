@@ -1,6 +1,7 @@
 # Kerbalism_KPBS
 Patch files to better use Kerbalism and the realism profile.
 
+0 - Realism.cfg_BAK - *** A backup with minor changes to keep the mighty SN from having to update again. Works with Kerbalism 1.1.3. Changes waste ratio for food and properly adds the newer small oxygen tank.
 
 1 - Patch file for KPBS. So close to calling it 1.0 I can smell it. Assume it's good enough for a career game?
 
